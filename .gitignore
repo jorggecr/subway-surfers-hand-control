@@ -1,0 +1,21 @@
+venv/
+VENV/
+env/
+ENV/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.env
+*.venv
+.idea/
+.vscode/
+*.swp
+.DS_Store  # macOS
+*.log
+*.tmp
+*.bak
+*.csv
+*.json
+*.xlsx
+*.db
