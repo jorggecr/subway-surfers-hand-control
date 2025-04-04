@@ -17,7 +17,7 @@ Before getting started, make sure you have the following dependencies installed:
 ```bash
 pip install -r requirements.txt
 ```
-If you don't have Python, download it from [python.org](python.org)
+If you don't have Python, download it from [python.org](https://www.python.org/)
 
 
 ## 📥 Installation & Execution
