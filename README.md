@@ -2,6 +2,7 @@
 Control Subway Surfers with your hands using OpenCV, MediaPipe, and PyAutoGUI 🎮
 
 <div align="center"> <img src="assets/gestures.png" alt="Gestures to control the game" width="600"/> </div>
+<div align="center"> <img src="assets/all_gestures.png" alt="Total Gestures to control the game" width="600"/> </div>
 
 ## 🔥 Features
 - Play the game without a keyboard, using only hand gestures
